@@ -26,17 +26,17 @@ $ git add -A
 
 - Commit:
 ```
-git commit -m ""
+$git commit -m ""
 ```
 
 ## Write Basic GitHub Commands Below
 
 - Push:
 ```
-git push origin master
+$git push origin master
 ```
 
 - Check Remote:
 ```
-git remote -v
+$git remote -v
 ```
